@@ -17,6 +17,8 @@ public class Hello {
 		System.out.println("1212122");
 		System.out.println("1212122");
 		System.out.println("1212122");
+		System.out.println("1212122");
+		System.out.println("1212122");
 	}
 }
 
